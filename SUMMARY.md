@@ -7,3 +7,4 @@
 * [Clerk中间件（clerkMiddleware）全面解析与最佳实践](clerk-zhong-jian-jian-clerkmiddleware-quan-mian-jie-xi-yu-zui-jia-shi-jian.md)
 * [解决重复组件问题：共享UI但权限不同的场景](jie-jue-chong-fu-zu-jian-wen-ti-gong-xiang-ui-dan-quan-xian-bu-tong-de-chang-jing.md)
 * [企业应用权限管理方案](qi-ye-ying-yong-quan-xian-guan-li-fang-an.md)
+* [配置 Clerk 邀请邮件接受后的跳转链接](pei-zhi-clerk-yao-qing-you-jian-jie-shou-hou-de-tiao-zhuan-lian-jie.md)

@@ -1,7 +1,5 @@
 # clerk token context 验证不同用户身份加载不同问题并保存不同context
 
-You've identified critical issues with my approach. Let me redesign the solution to address these concerns:
-
 ### Improved Server-Side Approach
 
 #### 1. Create a Server API Endpoint

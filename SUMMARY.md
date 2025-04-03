@@ -14,3 +14,4 @@
 * [图表可视化生成流程及相关请求](tu-biao-ke-shi-hua-sheng-cheng-liu-cheng-ji-xiang-guan-qing-qiu.md)
 * [跨域资源共享(CORS)完全指南：从同源策略到解决方案](kua-yu-zi-yuan-gong-xiang-cors-wan-quan-zhi-nan-cong-tong-yuan-ce-le-dao-jie-jue-fang-an.md)
 * [URL参数传递的两种方式：查询参数与路径参数详解](url-can-shu-chuan-di-de-liang-zhong-fang-shi-cha-xun-can-shu-yu-lu-jing-can-shu-xiang-jie.md)
+* [Next.js 14 App Router中的数据传递方法全解析](next.js-14-app-router-zhong-de-shu-ju-chuan-di-fang-fa-quan-jie-xi.md)

@@ -17,3 +17,5 @@
 * [Next.js 14 App Router中的数据传递方法全解析](next.js-14-app-router-zhong-de-shu-ju-chuan-di-fang-fa-quan-jie-xi.md)
 * [改进服务端事件流的图表可视化系统：从单一组件到适配器模式](gai-jin-fu-wu-duan-shi-jian-liu-de-tu-biao-ke-shi-hua-xi-tong-cong-dan-yi-zu-jian-dao-shi-pei-qi-mo.md)
 * [Chat到Dashboard的图表保存与可拖动组件实现分析](chat-dao-dashboard-de-tu-biao-bao-cun-yu-ke-tuo-dong-zu-jian-shi-xian-fen-xi.md)
+* [图表数据提取与保存insight page技术文档](tu-biao-shu-ju-ti-qu-yu-bao-cun-insight-page-ji-shu-wen-dang.md)
+* [图表数据提取与保存技术文档 详细版](tu-biao-shu-ju-ti-qu-yu-bao-cun-ji-shu-wen-dang-xiang-xi-ban.md)

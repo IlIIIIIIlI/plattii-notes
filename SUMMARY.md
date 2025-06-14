@@ -19,3 +19,4 @@
 * [Chat到Dashboard的图表保存与可拖动组件实现分析](chat-dao-dashboard-de-tu-biao-bao-cun-yu-ke-tuo-dong-zu-jian-shi-xian-fen-xi.md)
 * [图表数据提取与保存insight page技术文档](tu-biao-shu-ju-ti-qu-yu-bao-cun-insight-page-ji-shu-wen-dang.md)
 * [图表数据提取与保存技术文档 详细版](tu-biao-shu-ju-ti-qu-yu-bao-cun-ji-shu-wen-dang-xiang-xi-ban.md)
+* [Gitbook e2e测试](gitbook-e2e-ce-shi.md)

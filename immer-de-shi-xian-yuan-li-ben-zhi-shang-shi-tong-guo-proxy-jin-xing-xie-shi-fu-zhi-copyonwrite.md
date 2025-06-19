@@ -411,3 +411,5 @@ const handler = {
 3. **按需代理**：只有被访问的路径才会创建代理对象
 
 这种设计实现了用命令式语法进行声明式更新，避免了手动展开的复杂性，同时保证了不可变性和性能。
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

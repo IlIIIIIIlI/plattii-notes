@@ -20,3 +20,4 @@
 * [图表数据提取与保存insight page技术文档](tu-biao-shu-ju-ti-qu-yu-bao-cun-insight-page-ji-shu-wen-dang.md)
 * [图表数据提取与保存技术文档 详细版](tu-biao-shu-ju-ti-qu-yu-bao-cun-ji-shu-wen-dang-xiang-xi-ban.md)
 * [Gitbook e2e测试](gitbook-e2e-ce-shi.md)
+* [Immer 的实现原理本质上是通过 Proxy 进行写时复制（Copy-on-Write）](immer-de-shi-xian-yuan-li-ben-zhi-shang-shi-tong-guo-proxy-jin-xing-xie-shi-fu-zhi-copyonwrite.md)

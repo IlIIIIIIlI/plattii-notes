@@ -22,3 +22,4 @@
 * [Gitbook e2e测试](gitbook-e2e-ce-shi.md)
 * [Immer 的实现原理本质上是通过 Proxy 进行写时复制（Copy-on-Write）](immer-de-shi-xian-yuan-li-ben-zhi-shang-shi-tong-guo-proxy-jin-xing-xie-shi-fu-zhi-copyonwrite.md)
 * [Next.js Monorepo Docker 配置](next.js-monorepo-docker-pei-zhi.md)
+* [snowflake backend config](snowflake-backend-config.md)

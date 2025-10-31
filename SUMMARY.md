@@ -23,3 +23,4 @@
 * [Immer 的实现原理本质上是通过 Proxy 进行写时复制（Copy-on-Write）](immer-de-shi-xian-yuan-li-ben-zhi-shang-shi-tong-guo-proxy-jin-xing-xie-shi-fu-zhi-copyonwrite.md)
 * [Next.js Monorepo Docker 配置](next.js-monorepo-docker-pei-zhi.md)
 * [snowflake backend config](snowflake-backend-config.md)
+* [Snowflake Native App写了份安全手册，把审查从噩梦变成了走过场](snowflake-native-app-xie-le-fen-an-quan-shou-ce-ba-shen-cha-congemeng-bian-cheng-le-zou-guo-chang.md)
